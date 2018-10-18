@@ -1,4 +1,8 @@
-# Course 3: Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization
+Course 3: Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization
 
-## Optimization methods
-SGD, RMSProp, Adam.
+Optimization methods: SGD, Momentum, RMSProp, Adam.
+Momentum, exponentially weighted average of past gradients.
+Mini-batch Gradient descent
+Mini-batch gradient descent with momentum
+Mini-batch with Adam mode
+Adam paper: https://arxiv.org/pdf/1412.6980.pdf
